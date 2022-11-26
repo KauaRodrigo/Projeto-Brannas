@@ -2,7 +2,7 @@
   <div class="menuLateral">
     <nav>
       <div>
-        <label>Nome do usuário</label>
+        <label>TESTE</label>
         <span></span>
       </div>
       <div class="menuDivider"></div>
